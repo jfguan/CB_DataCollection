@@ -1,0 +1,10 @@
+21:25:43|INFO|Socket initialized
+21:25:43|INFO|Entered run loop
+21:25:43|INFO|Coinbase connection opened
+21:25:44|INFO|heartbeat
+21:25:45|INFO|heartbeat
+21:25:46|INFO|heartbeat
+21:25:46|WARNING|
+21:25:50|WARNING|Interrupt caught
+21:25:50|INFO|KeyboardInterrupt Interrupt processed, exiting...
+21:25:50|INFO|Coinbase connection closed

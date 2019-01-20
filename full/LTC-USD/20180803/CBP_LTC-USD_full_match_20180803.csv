@@ -1,0 +1,2 @@
+type,time,product_id,sequence,order_id,funds,size,price,side,order_type
+match,32655803,2498097237,b658678d-6a63-4d45-8ba0-b6c88d84cdba,aec73495-513e-42af-ab21-3cf08ecb2641,2018-08-03T01:25:45.168000Z,LTC-USD,1.01452225,75.53000000,sell
